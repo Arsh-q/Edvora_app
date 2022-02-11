@@ -1,0 +1,22 @@
+.cart .head {
+  text-align: left;
+}
+.cart h1 {
+  font-weight: bolder;
+  color: #ffffffde;
+  opacity: 87%;
+}
+.cart h2 {
+  color: #ffffffde;
+  opacity: 50%;
+}
+.cart h4 {
+  color: #ffffffde;
+  font-weight: 400;
+}
+.cart .line {
+  height: 1px;
+  margin: 1rem 0;
+  width: 100%;
+  background-color: rgba(203, 203, 203, 0.5);
+}
