@@ -1,6 +1,6 @@
 .SideBar {
   background: #131313;
-  /* max-width: 40vh; */
+  width: 228px;
   border-radius: 15px;
   min-height: 44vh;
 }

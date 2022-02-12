@@ -1,6 +1,6 @@
 #main-slider-container {
   width: 100%;
-  height: 32vh;
+  height: 26vh;
   position: relative;
   display: flex;
   justify-content: center;
@@ -40,8 +40,8 @@
 }
 
 .slider-card {
-  width: 16vw;
-  height: 24vh;
+  /* width: 14vw; */
+  /* height: 21vh; */
   display: inline-block;
   background: #232323;
   color: #ffffff;
@@ -56,7 +56,7 @@
 }
 .slider-card img {
   height: 76px;
-  width: auto;
+  width: 76px;
   margin: 10px;
   border-radius: 10px;
 }
@@ -70,7 +70,7 @@
   margin: 10px 0 5px 0 !important;
 }
 .slider-card .img p {
-  margin: 0 0 5px 0 !important;
+  margin: 0 0 5px 12px !important;
   width: 80%;
   opacity: 60%;
 }
@@ -78,7 +78,7 @@
   opacity: 60%;
 }
 .slider-card p:last-child {
-  width: 80%;
-  /* margin-left: 10px; */
+  margin-left: 12px;
+  text-align: start;
   opacity: 60%;
 }

@@ -3,3 +3,13 @@
   text-align: center;
   padding: 3rem;
 }
+.side-bar {
+  display: flex;
+  align-items: flex-start;
+  justify-content: end;
+}
+@media screen and (max-width: 1000px) {
+  .side-bar {
+    justify-content: center;
+  }
+}
