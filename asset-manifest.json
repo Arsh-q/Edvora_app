@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Edvora-app/static/css/main.3a832921.css",
+    "main.js": "/Edvora-app/static/js/main.923d5daf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Edvora-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Edvora-app/index.html",
+    "main.3a832921.css.map": "/Edvora-app/static/css/main.3a832921.css.map",
+    "main.923d5daf.js.map": "/Edvora-app/static/js/main.923d5daf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Edvora-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a832921.css",
+    "static/js/main.923d5daf.js"
+  ]
+}
